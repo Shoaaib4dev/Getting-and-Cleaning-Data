@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-First ,I read each data set into an R object /n
+First ,I read each data set into an R object \n
 I named the columns in each data set by their descriptive names
 I binded the data sets in the train folder as variables(columns) into one data set called train
 I did the same for test data sets
